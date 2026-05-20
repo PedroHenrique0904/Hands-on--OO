@@ -1,3 +1,4 @@
+1 -
 import java.util.ArrayList;
 
 public class ListaCompras {
@@ -23,3 +24,8 @@ public class ListaCompras {
         System.out.println("\nQuantidade total de produtos: " + produtos.size());
     }
 }
+
+
+
+
+2-
